@@ -1,2 +1,8 @@
 # PHP-WebProjesi
-PHP-TiecBiruni-WebProjesi Sitemde Biruni Üniversitesinde ki kulübümüz için insanların kayıt olabildiği ve bilgilerini veri tabanına eklenerek kolaylıkla sql dosyasını excel dosyası haline getirip okulun istediği formatta üyeleri okula teslim edebileceğim bir site yaptım. Fronted'ini Nicepage şablonları kullanarak html css ve javascripti ufak oynamalar yaparak hallettim. Backend'ini ise Php kullanarak hem kayıt sistemini hemde giriş yap sistemini hallettim. Giriş yap da ise üyelerin okul numarası ile girdikleri kullanıcı varsa sayfaya fikirlerini yazabilecekleri ve otomatik bilgilerinin yazıldığı bir form geliyor. Bu fikirler veri tabanına ayrı bir tabloda ekleniyor. Yanlış okul numarası girer ise fikir formu gelmiyor ve böyle bir kullanıcı yok diyor.
+Biruni Üniversitesi'ndeki kulübümüz için bir web sitesi geliştirdim. Bu site, insanların kulübümüze kaydolabildiği ve bilgilerinin veritabanına eklenerek, okulun istediği formatta üyelerin listesini Excel dosyasına dönüştürebileceğimiz bir platform sağlıyor.
+
+Frontend tarafını Nicepage şablonları kullanarak HTML, CSS ve JavaScript ile hallettim. Arka planda ise PHP kullanarak kayıt ve giriş sistemini oluşturdum.
+
+Kayıt olmak isteyenler için bir form bulunuyor. Bu form aracılığıyla kullanıcılar, gerekli bilgileri doldurarak kaydolabiliyorlar. Bu bilgiler daha sonra veritabanına ekleniyor.
+
+Giriş yapmak isteyen üyeler, okul numaralarıyla sisteme giriş yaparlar. Eğer böyle bir kullanıcı varsa, otomatik olarak bilgilerinin yer aldığı bir form görüntülenir. Bu formda, üyeler fikirlerini paylaşabilirler ve bu fikirler veritabanına kaydedilir. Eğer yanlış bir okul numarası girilirse, sistem böyle bir kullanıcının olmadığını belirten bir mesaj gösterir ve fikir formunu göstermez.
