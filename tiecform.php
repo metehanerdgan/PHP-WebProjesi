@@ -134,7 +134,7 @@
 								  <option >Fizyoterapi İ.Ö.</option>
 								  <option >İlk ve Acil Yardım</option>
 								  <option >İlk ve Acil Yardım İ.Ö.</option>
-								  <>İş ve Uğraşı Terapisi</option>
+								  <option >İş ve Uğraşı Terapisi</option>
 								  <option >İşçi Sağlığı ve İş Güvenliği</option>
 								  <option >Nükleer Tıp Teknikleri</option>
 								  <option >Odyometri</option>
@@ -162,7 +162,11 @@
 								  <option >Rehberlik ve Psikolojik Danışmanlık</option>
 								  <option value="" disabled="" style="background-color:rgba(70,130,180,0.1); font-size:0.8em; font-weight:bold; color:rgba(70,130,180,1);">MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ</option>
 								  <option >Bilgisayar Mühendisliği</option>
+								  <option >Yazılım Mühendisliği</option>
 								  <option >Bilgisayar Mühendisliği (İngilizce)</option>
+								  <option >Elektrik-Elektronik Mühendisliği</option>
+								  <option >Endüstri Mühendisliği</option>
+								  <option >Endüstriyel Ürün Tasarımı</option>
 								  <option >Biyomedikal Mühendisliği (İngilizce)</option>
 								  <option >Endüstriyel Ürün Tasarımı</option>
 								  <option >İç Mimarlık ve Çevre Tasarımı</option>

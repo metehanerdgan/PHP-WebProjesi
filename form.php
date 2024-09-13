@@ -1,9 +1,9 @@
 
 <?php
-	$sunucu_adi = "sql302.infinityfree.com";
-	$kullanici_adi = "if0_34498896";
-	$sifre = "N5oPfWiz75";
-    $veri_taban = "if0_34498896_tiecbiruni";
+	$sunucu_adi = "sql207.infinityfree.com";
+	$kullanici_adi = "if0_37301271";
+	$sifre = "weYlvlhoS5";
+    $veri_taban = "if0_37301271_tiecbiruni1";
 	$baglanti = new mysqli($sunucu_adi, $kullanici_adi, $sifre,$veri_taban,3306);
 	
 	if ($baglanti->connect_error){
