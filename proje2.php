@@ -4,13 +4,15 @@
     <meta charset="utf-8">
     <meta name="keywords" content="Tiec biruni">
     <meta name="description" content="">
-    <title>Metaverse</title>
+    <title>Veri Bilimi Sempozyumu : "Veri Çagi"</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="proje.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 5.20.7, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
     
     
     <script type="application/ld+json">{
@@ -75,10 +77,10 @@
       </div></header>
     <section class="u-align-center u-clearfix u-image u-shading u-video-cover u-section-1" id="carousel_f1ab">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-body-alt-color u-title u-text-1">Tiec biruni</h1>
+        <h1 class="u-text u-text-body-alt-color u-title u-text-1">Tiec Biruni Veri Bilimi Sempozyumu : "Veri Çagi"</h1>
         <div class="u-expanded-width-sm u-expanded-width-xs u-uploaded-video u-video u-video-cover u-video-1" data-animation-name="customAnimationIn" data-animation-duration="1000">
           <div class="embed-responsive">
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/-VOdge_SLto?si=m5uZT9DkKNWzx2Dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rbfQgrjK_a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -240,6 +242,5 @@
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-b796"><div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">© 2024 Tiec Biruni Tüm Hakları Saklıdır.</p>
       </div></footer>
-   
   
 </body></html>

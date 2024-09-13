@@ -40,17 +40,16 @@
 			background-color: #45a049;
 		}
 	</style>
-    
-    <script type="application/ld+json">{
+       <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
 		"name": ""
 }</script>
     <meta name="theme-color" content="#232b79">
-    <meta property="og:title" content="iletisim">
+    <meta property="og:title" content="proje">
     <meta property="og:type" content="website">
-  </head>
-  <body class="u-body u-xl-mode" data-lang="tr"><header class="u-clearfix u-header u-header" id="sec-a184"><div class="u-clearfix u-sheet u-sheet-1">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="tr"><header class="u-clearfix u-header u-header" id="sec-a184"><div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-image u-image-circle u-image-contain u-preserve-proportions u-image-1" src="images/ab.png" alt="" data-image-width="250" data-image-height="250">
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -66,6 +65,12 @@
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-grey-90 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-1-base" href="hakkinda.php" rel="nofollow" style="padding: 24px 18px;">Hakkında</a>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-grey-90 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-1-base" style="padding: 24px 18px;">Projelerimiz</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="proje.php" rel="nofollow">Metaverse</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="proje1.php" rel="nofollow">Yapay Zeka</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje2.php" rel="nofollow">Veri Bilimi Sempozyumu : "Veri Çagi"</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje3.php" rel="nofollow">Geleceği Şekillendiren Zihinler</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje4.php" rel="nofollow">Biruni Bilişim Zirvesi'24</a>
 </li></ul>
 </div>
 </li></ul>
@@ -79,7 +84,14 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="hakkinda.php" rel="nofollow">Hakkında</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link">Projelerimiz</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje.php" rel="nofollow">Metaverse</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje1.php" rel="nofollow">Yapay Zeka</a>
-</li></ul>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje2.php" rel="nofollow">Veri Bilimi Sempozyumu : "Veri Çagi"</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje3.php" rel="nofollow">Geleceği Şekillendiren Zihinler</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje4.php" rel="nofollow">Biruni Bilişim Zirvesi'24</a>
+</li>
+</ul>
 </div>
 </li></ul>
               </div>
@@ -88,7 +100,6 @@
           </div>
         </nav>
       </div></header>
-
 
 		
     <section class="u-clearfix u-gradient u-section-1" id="carousel_7167">
@@ -213,7 +224,7 @@
     
     
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-b796"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">© 2022 Tiec Biruni Tüm Hakları Saklıdır.</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">© 2024 Tiec Biruni Tüm Hakları Saklıdır.</p>
       </div></footer>
 	  </form>
 </body>

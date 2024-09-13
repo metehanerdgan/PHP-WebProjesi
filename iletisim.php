@@ -22,10 +22,10 @@
 		"name": ""
 }</script>
     <meta name="theme-color" content="#232b79">
-    <meta property="og:title" content="iletisim">
+    <meta property="og:title" content="proje">
     <meta property="og:type" content="website">
-  </head>
-  <body class="u-body u-xl-mode" data-lang="tr"><header class="u-clearfix u-header u-header" id="sec-a184"><div class="u-clearfix u-sheet u-sheet-1">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="tr"><header class="u-clearfix u-header u-header" id="sec-a184"><div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-image u-image-circle u-image-contain u-preserve-proportions u-image-1" src="images/ab.png" alt="" data-image-width="250" data-image-height="250">
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -41,6 +41,12 @@
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-grey-90 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-1-base" href="hakkinda.php" rel="nofollow" style="padding: 24px 18px;">Hakkında</a>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-grey-90 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-1-base" style="padding: 24px 18px;">Projelerimiz</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="proje.php" rel="nofollow">Metaverse</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="proje1.php" rel="nofollow">Yapay Zeka</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje2.php" rel="nofollow">Veri Bilimi Sempozyumu : "Veri Çagi"</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje3.php" rel="nofollow">Geleceği Şekillendiren Zihinler</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje4.php" rel="nofollow">Biruni Bilişim Zirvesi'24</a>
 </li></ul>
 </div>
 </li></ul>
@@ -54,7 +60,14 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="hakkinda.php" rel="nofollow">Hakkında</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link">Projelerimiz</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje.php" rel="nofollow">Metaverse</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje1.php" rel="nofollow">Yapay Zeka</a>
-</li></ul>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje2.php" rel="nofollow">Veri Bilimi Sempozyumu : "Veri Çagi"</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje3.php" rel="nofollow">Geleceği Şekillendiren Zihinler</a>
+</li>
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje4.php" rel="nofollow">Biruni Bilişim Zirvesi'24</a>
+</li>
+</ul>
 </div>
 </li></ul>
               </div>
@@ -186,7 +199,33 @@
         </div>
       </div>
     </section>
+    <div class="map-container">
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.336558170405!2d28.9164256!3d41.017892200000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbb1ade07b4d%3A0x41372ea4b54356d2!2sBiruni%20%C3%9Cniversitesi!5e0!3m2!1str!2str!4v1726213360311!5m2!1str!2str"
+    width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
+
+<style>
+  .map-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 ratio için */
+    height: 0;
+    overflow: hidden;
+  }
+  
+  .map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
      <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-b796"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">© 2022 Tiec Biruni Tüm Hakları Saklıdır.</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">© 2024 Tiec Biruni Tüm Hakları Saklıdır.</p>
       </div></footer>
 </body></html>
