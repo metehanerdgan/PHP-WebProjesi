@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: sql207.byetcluster.com
--- Üretim Zamanı: 13 Eyl 2024, 01:09:08
+-- Üretim Zamanı: 13 Eyl 2024, 01:10:58
 -- Sunucu sürümü: 10.6.19-MariaDB
 -- PHP Sürümü: 7.2.22
 
@@ -25,6 +25,29 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Tablo için tablo yapısı `tabl`
+--
+
+CREATE TABLE `tabl` (
+  `id` int(11) NOT NULL,
+  `advesoyadi` varchar(30) CHARACTER SET utf8mb3 COLLATE utf8mb3_turkish_ci NOT NULL,
+  `okulnoo` varchar(20) CHARACTER SET utf8mb3 COLLATE utf8mb3_turkish_ci NOT NULL,
+  `tc` varchar(11) CHARACTER SET utf8mb3 COLLATE utf8mb3_turkish_ci NOT NULL,
+  `bolumm` varchar(30) CHARACTER SET utf8mb3 COLLATE utf8mb3_turkish_ci NOT NULL,
+  `telefonn` varchar(20) CHARACTER SET utf8mb3 COLLATE utf8mb3_turkish_ci NOT NULL,
+  `tarih` varchar(50) CHARACTER SET utf8mb3 COLLATE utf8mb3_turkish_ci NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+
+--
+-- Tablo döküm verisi `tabl`
+--
+
+INSERT INTO `tabl` (`id`, `advesoyadi`, `okulnoo`, `tc`, `bolumm`, `telefonn`, `tarih`) VALUES
+(30, 'Zehra Bakmaz', '220503047', '', 'Çocuk Gelişimi (Lisans)', '5510126917', '06/11/2023 01:36:59');
+
+-- --------------------------------------------------------
+
+--
 -- Tablo için tablo yapısı `tabl2`
 --
 
@@ -39,8 +62,21 @@ CREATE TABLE `tabl2` (
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 --
+-- Tablo döküm verisi `tabl2`
+--
+
+INSERT INTO `tabl2` (`id`, `advesoyadi`, `okulnoo`, `bolumm`, `telefonn`, `fikir`, `tarih`) VALUES
+(19, 'Zehra Bakmaz', '220503047', 'Çocuk Gelişimi (Lisans)', '5510126917', '????????', '06/11/2023 01:39:07');
+
+--
 -- Dökümü yapılmış tablolar için indeksler
 --
+
+--
+-- Tablo için indeksler `tabl`
+--
+ALTER TABLE `tabl`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Tablo için indeksler `tabl2`
@@ -51,6 +87,12 @@ ALTER TABLE `tabl2`
 --
 -- Dökümü yapılmış tablolar için AUTO_INCREMENT değeri
 --
+
+--
+-- Tablo için AUTO_INCREMENT değeri `tabl`
+--
+ALTER TABLE `tabl`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
 
 --
 -- Tablo için AUTO_INCREMENT değeri `tabl2`
