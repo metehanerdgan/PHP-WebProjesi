@@ -13,7 +13,6 @@
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     
     
-    
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -56,17 +55,55 @@
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="giris.php" rel="nofollow">Ana Sayfa</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="iletisim.php" rel="nofollow">İletişim</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="hakkinda.php" rel="nofollow">Hakkında</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">Projelerimiz</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje.php" rel="nofollow">Metaverse</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje1.php" rel="nofollow">Yapay Zeka</a>
-</li>
-<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje2.php" rel="nofollow">Veri Bilimi Sempozyumu : "Veri Çagi"</a>
-</li>
-<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje3.php" rel="nofollow">Geleceği Şekillendiren Zihinler</a>
-</li>
-<li class="u-nav-item"><a class="u-button-style u-nav-link" href="proje4.php" rel="nofollow">Biruni Bilişim Zirvesi'24</a>
-</li>
-</ul>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">Projelerimiz</a><div class="u-nav-popup">
+  <ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10">
+    <li class="u-nav-item">
+      <a class="u-button-style u-nav-link" href="proje.php" rel="nofollow">Metaverse</a>
+    </li>
+    <li class="u-nav-item">
+      <a class="u-button-style u-nav-link" href="proje1.php" rel="nofollow">Yapay Zeka</a>
+    </li>
+    <li class="u-nav-item">
+      <a class="u-button-style u-nav-link" href="proje2.php" rel="nofollow">Veri Bilimi Sempozyumu : "Veri Çağı"</a>
+    </li>
+    <li class="u-nav-item">
+      <a class="u-button-style u-nav-link" href="proje3.php" rel="nofollow">Geleceği Şekillendiren Zihinler</a>
+    </li>
+    <li class="u-nav-item">
+      <a class="u-button-style u-nav-link" href="proje4.php" rel="nofollow">Biruni Bilişim Zirvesi'24</a>
+    </li>
+  </ul>
 </div>
+
+<style>
+  /* Mobil ve genel için varsayılan stil */
+  .u-nav-item {
+    background-color: white; /* Arka plan rengi beyaz */
+    border: 1px solid #ccc; /* Kutuya çerçeve ekleme */
+    border-radius: 8px; /* Köşeleri yuvarlatma */
+    margin-bottom: 10px; /* Kutucuklar arası boşluk */
+    padding: 10px; /* İç boşluk */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+  }
+
+  .u-nav-item:hover {
+    background-color: #f0f0f0; /* Üzerine gelindiğinde arka planın rengini değiştirme */
+  }
+
+  .u-nav-link {
+    text-decoration: none;
+    color: #000 !important; /* Mobil için yazı rengi siyah (öncelikli) */
+    font-weight: bold; /* Yazıyı kalınlaştırma */
+  }
+
+  /* Masaüstü cihazlar için stil */
+  @media (min-width: 769px) {
+    .u-nav-link {
+      color: #333 !important; /* Masaüstü için yazı rengi koyu gri (öncelikli) */
+    }
+  }
+</style>
+
 </li></ul>
               </div>
             </div>
@@ -76,11 +113,10 @@
       </div></header>
     <section class="u-align-center u-clearfix u-image u-shading u-video-cover u-section-1" id="carousel_f1ab">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-body-alt-color u-title u-text-1">Tiec Biruni Veri Bilimi Sempozyumu : "Veri Çagi"</h1>
+        <h1 class="u-text u-text-body-alt-color u-title u-text-1">Tiec Biruni</h1>
         <div class="u-expanded-width-sm u-expanded-width-xs u-uploaded-video u-video u-video-cover u-video-1" data-animation-name="customAnimationIn" data-animation-duration="1000">
           <div class="embed-responsive">
-       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hnM3wELOqbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          </div>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/hnM3wELOqbA?si=WQo4blz_plXsoBlO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div>
         </div>
       </div>
     </section>
