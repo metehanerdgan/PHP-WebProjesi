@@ -132,7 +132,7 @@
                 <img class="u-image u-image-contain u-image-default u-image-6" src="images/twitter.png" alt="" data-image-width="2491" data-image-height="2049" data-href="https://twitter.com/TiecBiruni" data-target="_blank">
                 <img class="u-hidden-block u-image u-image-contain u-image-default u-image-7" src="images/wp.png" alt="" data-image-width="1000" data-image-height="1024" data-href="https://nicepage.com">
                 <img class="u-hidden-block u-image u-image-default u-preserve-proportions u-image-8" src="images/174857.png" alt="" data-image-width="512" data-image-height="512" data-href="https://nicepage.com" data-animation-name="" data-animation-duration="0" data-animation-direction="">
-                <h4 class="u-text u-text-palette-1-base u-text-3">Twitter</h4>
+                <h4 class="u-text u-text-palette-1-base u-text-3">X</h4>
               </div>
             </div>
             <div class="u-align-center u-border-9 u-border-no-bottom u-border-no-left u-border-no-right u-border-palette-2-base u-bottom-left-radius-20 u-bottom-right-radius-20 u-container-style u-list-item u-repeater-item u-shape-round u-video-cover u-white u-list-item-3" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="">
